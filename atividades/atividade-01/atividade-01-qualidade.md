@@ -30,7 +30,7 @@ Sim. Mesmo que o sistema possua todas as funcionalidades solicitadas, ele ainda 
 
 Tarefa 2 - Exploração da Aplicação
 
-Integrante: Manoela Neves
+Integrante: Erick
 Funcionalidade: Busca por restaurantes.
 
 O que foi realizado: Foram realizadas duas pesquisas no sistema: uma utilizando uma especialidade existente, "Italiana", e outra utilizando um termo que não possui correspondência, "culinariaxyz".
@@ -41,7 +41,7 @@ Evidência: manoela-busca-italiana.png e manoela-busca-semResultados.png
 
 Tarefa 3 - Requisitos e Características de Qualidade
 
-Integrante: Manoela Neves
+Integrante: Matheus
 
 Requisitos de Qualidade: Quando o usuário pesquisar por uma especialidade disponível no sistema, o LocalEats deve exibir os restaurantes que correspondem ao critério pesquisado.
 
