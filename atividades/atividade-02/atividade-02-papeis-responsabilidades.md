@@ -17,7 +17,7 @@ Não. A qualidade deve ser construída em conjunto por todos os integrantes da e
 Tarefa 2 — Papéis e competências
 Responsável pelo Produto
 
-Integrante: Manoela
+Integrante: Erick
 
 Responsabilidades relacionadas à qualidade: Definir os requisitos das funcionalidades, esclarecer dúvidas sobre o comportamento esperado, estabelecer critérios de aceitação, organizar as prioridades e verificar se as entregas correspondem às necessidades dos usuários e do produto.
 
@@ -27,7 +27,7 @@ Competências comportamentais: Boa comunicação, organização, capacidade de d
 
 Desenvolvedor
 
-Integrante: Manoela
+Integrante: Matheus
 
 Responsabilidades relacionadas à qualidade: Desenvolver as funcionalidades, executar testes unitários, solucionar problemas encontrados, participar das revisões de código e seguir as práticas e padrões técnicos estabelecidos pela equipe.
 
@@ -37,7 +37,7 @@ Competências comportamentais: Trabalho em equipe, responsabilidade, atenção a
 
 QA / Analista de Qualidade
 
-Integrante: Manoela
+Integrante: Erick
 
 Responsabilidades relacionadas à qualidade: Planejar e executar testes, criar cenários e casos de teste, validar os critérios de aceitação, registrar e acompanhar defeitos e informar à equipe sobre possíveis riscos relacionados à qualidade.
 
@@ -47,7 +47,7 @@ Competências comportamentais: Pensamento crítico, atenção aos detalhes, orga
 
 Liderança Técnica
 
-Integrante: Manoela
+Integrante: Matheus
 
 Responsabilidades relacionadas à qualidade: Apoiar e orientar as decisões técnicas, manter os padrões de desenvolvimento, participar das revisões de código, analisar possíveis riscos técnicos e acompanhar a qualidade das entregas.
 
