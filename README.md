@@ -1,5 +1,5 @@
 LocalEats — Qualidade de Software
-
+22/08/2026
 Repositório criado para armazenar as atividades desenvolvidas na Unidade Curricular de Qualidade de Software, tendo o projeto LocalEats como base para as análises e avaliações realizadas.
 
 O LocalEats é uma aplicação voltada para a conexão entre usuários e restaurantes locais. Entre suas principais funcionalidades estão o cadastro de usuários, login, consulta de restaurantes, realização de pesquisas, aplicação de filtros, gerenciamento de favoritos e realização de pedidos.
